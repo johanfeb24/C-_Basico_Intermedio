@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\bin\Debug\POO.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\bin\Debug\POO.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\bin\Debug\POO.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\obj\Debug\ClasesYObjetos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\obj\Debug\ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\obj\Debug\POO.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\POO\obj\Debug\POO.pdb

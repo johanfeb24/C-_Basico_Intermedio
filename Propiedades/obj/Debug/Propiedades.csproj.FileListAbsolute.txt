@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\bin\Debug\Propiedades.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\obj\Debug\Propiedades.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Propiedades\obj\Debug\Propiedades.pdb

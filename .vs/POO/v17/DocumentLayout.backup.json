@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE65A9EC-D8B3-47B1-8CA2-F201F6A0FE15}|Static\\Static.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\desarrolo de software\\c#_part2\\udemy_hdl\\poo\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE65A9EC-D8B3-47B1-8CA2-F201F6A0FE15}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273977A7-658C-43E3-816A-9657690F4E4B}|..\\Sobreescritura\\Sobreescritura.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\desarrolo de software\\c#_part2\\udemy_hdl\\sobreescritura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38FDF5-BD5C-4A07-87BA-8E873F09B26E}|Sobrecarga_Metodos\\Sobrecarga_Metodos.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\desarrolo de software\\c#_part2\\udemy_hdl\\poo\\sobrecarga_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38FDF5-BD5C-4A07-87BA-8E873F09B26E}|Sobrecarga_Metodos\\Sobrecarga_Metodos.csproj|solutionrelative:sobrecarga_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\ClasesYObjetos.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\ClasesYObjetos.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\POO.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF89D6-E9F6-4519-8C86-ED7BAA5D34C3}|Propiedades\\Propiedades.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\propiedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF89D6-E9F6-4519-8C86-ED7BAA5D34C3}|Propiedades\\Propiedades.csproj|solutionrelative:propiedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79448B9E-CE54-404D-9EE0-A113313237DE}|..\\Herencia\\Herencia.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\desarrolo de software\\c#_part2\\udemy_hdl\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\Static\\Program.cs*",
+              "RelativeToolTip": "Static\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:55:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Sobreescritura\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs",
+              "RelativeToolTip": "..\\Sobreescritura\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:39:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T02:12:45.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\Sobrecarga_Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrecarga_Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\Sobrecarga_Metodos\\Program.cs",
+              "RelativeToolTip": "Sobrecarga_Metodos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T02:01:27.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs",
+              "RelativeToolTip": "..\\Herencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:45:26.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\Propiedades\\Program.cs",
+              "RelativeDocumentMoniker": "Propiedades\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\Propiedades\\Program.cs",
+              "RelativeToolTip": "Propiedades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:25:22.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:55:40.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

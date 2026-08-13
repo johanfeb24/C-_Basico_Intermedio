@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\bin\Debug\Static_Exp.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\bin\Debug\Static_Exp.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\bin\Debug\Static_Exp.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\obj\Debug\Static_Exp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\obj\Debug\Static_Exp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\obj\Debug\Static_Exp.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static_Exp\obj\Debug\Static_Exp.pdb

@@ -6,3 +6,10 @@ C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Static\obj\Debug\Static.exe
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Static\obj\Debug\Static.pdb
 C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\C#_part2\Udemy_HDL\POO\Static\obj\Debug\Static.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\bin\Debug\Static.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\bin\Debug\Static.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\bin\Debug\Static.pdb
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\obj\Debug\Static.exe
+C:\Users\USUARIO\OneDrive\Documentos\1. Personales\Desarrolo de Software\Prueba Git\Udemy_HDL\POO\Static\obj\Debug\Static.pdb

@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE65A9EC-D8B3-47B1-8CA2-F201F6A0FE15}|Static\\Static.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE65A9EC-D8B3-47B1-8CA2-F201F6A0FE15}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4682F1F-39DB-4E1A-A089-C4556032AA67}|Static_Exp\\Static_Exp.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\desarrolo de software\\prueba git\\udemy_hdl\\poo\\static_exp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4682F1F-39DB-4E1A-A089-C4556032AA67}|Static_Exp\\Static_Exp.csproj|solutionrelative:static_exp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D7F8E-3D5C-4B9E-8A7C-1E2D3F4A5B6C}|Sobrescritura\\Sobrescritura.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrescritura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D7F8E-3D5C-4B9E-8A7C-1E2D3F4A5B6C}|Sobrescritura\\Sobrescritura.csproj|solutionrelative:Sobrescritura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38FDF5-BD5C-4A07-87BA-8E873F09B26E}|Sobrecarga_Metodos\\Sobrecarga_Metodos.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\sobrecarga_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38FDF5-BD5C-4A07-87BA-8E873F09B26E}|Sobrecarga_Metodos\\Sobrecarga_Metodos.csproj|solutionrelative:sobrecarga_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79448B9E-CE54-404D-9EE0-A113313237DE}|..\\Herencia\\Herencia.csproj|c:\\users\\usuario\\onedrive\\documentos\\1. personales\\desarrolo de software\\prueba git\\udemy_hdl\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39EF89D6-E9F6-4519-8C86-ED7BAA5D34C3}|Propiedades\\Propiedades.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\propiedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -14,19 +30,8 @@
       "RelativeMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\ClasesYObjetos.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE65A9EC-D8B3-47B1-8CA2-F201F6A0FE15}|Static\\Static.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE65A9EC-D8B3-47B1-8CA2-F201F6A0FE15}|Static\\Static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A38FDF5-BD5C-4A07-87BA-8E873F09B26E}|Sobrecarga_Metodos\\Sobrecarga_Metodos.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\sobrecarga_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A38FDF5-BD5C-4A07-87BA-8E873F09B26E}|Sobrecarga_Metodos\\Sobrecarga_Metodos.csproj|solutionrelative:sobrecarga_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\POO.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DE90284-BB55-484F-8C47-F5010DE551EC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,78 +49,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Static\\Program.cs",
-              "RelativeDocumentMoniker": "Static\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Static\\Program.cs",
-              "RelativeToolTip": "Static\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Static_Exp\\Program.cs",
+              "RelativeDocumentMoniker": "Static_Exp\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Static_Exp\\Program.cs",
+              "RelativeToolTip": "Static_Exp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:12:56.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\C#_part2\\Udemy_HDL\\Sobreescritura\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:12:56.527Z"
+              "WhenOpened": "2026-08-13T01:51:57.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrescritura\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrescritura\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrescritura\\Program.cs",
+              "RelativeToolTip": "Sobrescritura\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwBEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:12:56.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrecarga_Metodos\\Program.cs",
-              "RelativeDocumentMoniker": "Sobrecarga_Metodos\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrecarga_Metodos\\Program.cs",
-              "RelativeToolTip": "Sobrecarga_Metodos\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:12:56.545Z"
+              "WhenOpened": "2026-08-13T01:40:30.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\C#_part2\\Udemy_HDL\\Herencia\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "Static\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Static\\Program.cs",
+              "RelativeToolTip": "Static\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:12:56.547Z"
+              "WhenOpened": "2026-07-28T03:01:58.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrecarga_Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "Sobrecarga_Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Sobrecarga_Metodos\\Program.cs",
+              "RelativeToolTip": "Sobrecarga_Metodos\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T03:01:53.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\Herencia\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\Herencia\\Program.cs",
+              "RelativeToolTip": "..\\Herencia\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T03:01:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Propiedades\\Program.cs",
               "RelativeDocumentMoniker": "Propiedades\\Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\Propiedades\\Program.cs",
               "RelativeToolTip": "Propiedades\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:12:56.547Z"
+              "WhenOpened": "2026-07-28T03:01:44.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T03:01:38.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\1. Personales\\Desarrolo de Software\\Prueba Git\\Udemy_HDL\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
